@@ -3,7 +3,7 @@
 A python project using public API from Nasa’s Asteroids – NeoWs (Near Earth Object Web Service) to scrape data and see how many harzadous asteroids visiting earth in the past Nov’22.
 Also, another python project about using sklearn library to predict data using linear regression and classification machine learning models.
 
-[pandas final project](https://datalore.jetbrains.com/view/notebook/05L6oCgpcqszh90m2kb5Bl)
+[pandas final project](https://datalore.jetbrains.com/view/notebook/05L6oCgpcqszh90m2kb5Bl){:target="_blank"}
 
 [python api & ml](https://colab.research.google.com/drive/1fvZC3-t0993JTV0kjRcUaEUjwPqjCuD-?usp=sharing)
 
