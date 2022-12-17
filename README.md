@@ -3,7 +3,7 @@ Data science bootcamp batch06 with `adToy`
 
 We learn 10 sprints during 4 month program.
 
--Spreadsheets
+- Spreadsheets
 - SQL Database
 - R Programming
 - Data Transformation
